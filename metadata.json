@@ -1,0 +1,6 @@
+{
+  "name": "EmeklilikRadarı - Kademeli Emeklilik Doğrulama & Takip",
+  "description": "Söylenti değil resmi gelişme: 1999-2008 kademeli emeklilik yasa sürecini Resmî Gazete, TBMM ve SGK kaynaklarından anlık doğrulayan, AI clickbait filtreli takip platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
